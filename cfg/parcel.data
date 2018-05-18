@@ -1,0 +1,6 @@
+classes= 3
+train  = /media/joey/DATA/parcel_blur_wuhe/train.txt
+valid = /media/joey/DATA/parcel_blur_wuhe/valid.txt
+names = data/parcel.names
+backup = backup/
+
